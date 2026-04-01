@@ -10,7 +10,7 @@ Esta app foi desenvolvida com **React + Vite** e pode ser deployada facilmente u
 
 Clique no botão abaixo para fazer deploy da app em segundos:
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/<phalacrocorax-tech>/btc-futures-pro&project-name=btc-futures-pro&repository-name=btc-futures-pro)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/phalacrocorax-tech/btc-futures-pro&project-name=btc-futures-pro&repository-name=btc-futures-pro)
 
 > **Substitua `<SEU_USUARIO>` pelo seu nome de usuário do GitHub** antes de clicar.
 
